@@ -1,0 +1,4 @@
+# Email List for Download Application
+# Format: email|firstName|lastName
+
+23133030@student.hcmute.edu.vn|Kien Hung|Do
